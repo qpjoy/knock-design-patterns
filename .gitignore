@@ -1,0 +1,12 @@
+node_modules/
+typescript/
+reports/
+.idea
+.vscode
+package-lock.json
+test
+src/backend/driver/excel/sheets
+src/backend/driver/excel/test_excel
+src/backend/driver/excel/test_xlsm
+stage
+*.js
